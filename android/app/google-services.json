@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "848075218250",
+    "firebase_url": "https://integrate-967fa-default-rtdb.firebaseio.com",
+    "project_id": "integrate-967fa",
+    "storage_bucket": "integrate-967fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848075218250:android:9bdbea709416d79395f5b3",
+        "android_client_info": {
+          "package_name": "com.example.chatter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848075218250-0tb394lno5vpm9vepkrtgo9np067amkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxsD85-VkWSysccHK8HTCUNKPcdVRbzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848075218250-0tb394lno5vpm9vepkrtgo9np067amkd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848075218250-8f7kqh6aqp18iovtie0ou0c6n01h4kj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848075218250:android:3aeca23388466bd195f5b3",
+        "android_client_info": {
+          "package_name": "com.example.reddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848075218250-rdtfl4832pmptoagp6ojmvvcn696vtb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reddit",
+            "certificate_hash": "e4c5b79ff092e7a81bbf87a8357dca6ad12a5f55"
+          }
+        },
+        {
+          "client_id": "848075218250-0tb394lno5vpm9vepkrtgo9np067amkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxsD85-VkWSysccHK8HTCUNKPcdVRbzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848075218250-0tb394lno5vpm9vepkrtgo9np067amkd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848075218250-8f7kqh6aqp18iovtie0ou0c6n01h4kj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848075218250:android:e40fb4e8d1a8eac895f5b3",
+        "android_client_info": {
+          "package_name": "com.example.twitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848075218250-0tb394lno5vpm9vepkrtgo9np067amkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxsD85-VkWSysccHK8HTCUNKPcdVRbzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848075218250-0tb394lno5vpm9vepkrtgo9np067amkd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848075218250-8f7kqh6aqp18iovtie0ou0c6n01h4kj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848075218250:android:b9d49ffaf417589695f5b3",
+        "android_client_info": {
+          "package_name": "com.example.twitchclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848075218250-0tb394lno5vpm9vepkrtgo9np067amkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxsD85-VkWSysccHK8HTCUNKPcdVRbzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848075218250-0tb394lno5vpm9vepkrtgo9np067amkd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848075218250-8f7kqh6aqp18iovtie0ou0c6n01h4kj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
